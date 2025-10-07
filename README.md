@@ -29,14 +29,14 @@
 # Screenshots
 
 1. PDB Creation: Successful creation message in SQL Plus.
-<PDB Creation Successful creation message in SQLPlus..png>
+(<PDB Creation Successful creation message in SQLPlus..png>)
 
 2. OEM Dashboard: PDB visible and active. 
-<OEM Dashboard.PNG> 
+(<OEM Dashboard.PNG>)
 
 
 3. PDB Creation & Deletion: Creation & Drop confirmation message. 
-<PDB Creation.PNG> & <PDB Deletion.PNG>
+(<PDB Creation.PNG> & <PDB Deletion.PNG>)
 
 
 # Challenges & solutions
